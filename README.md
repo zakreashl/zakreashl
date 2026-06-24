@@ -10,3 +10,5 @@ Currently building a 32-bit x86 OS from scratch.
 - [cShell](https://github.com/zakreashl/cShell) — UNIX shell in C
 - [My_malloc](https://github.com/zakreashl/My_malloc) — custom heap allocator with a doubly-linked free list
 - [Toy-Stack-in-C-and-ASM](https://github.com/zakreashl/Toy-Stack-in-C-and-ASM) — stack implementation in ARM64 assembly
+
+(Portfolio website)[https://zakreashl.github.io/portfolio/]
